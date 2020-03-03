@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UserRegistrationTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2019-12-30T04:51:26" hostname="admin1-HP-EliteBook-Folio-9480m" time="0.015">
+  <properties/>
+  <testcase name="whenGivenlastName_shouldReturnLastNameMaxmum3Wcharcater" classname="UserRegistrationTest" time="0.002"/>
+  <testcase name="whenGivenlastName_shouldReturnLastNameEndingtWithNumber" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenlastName_shouldReturnLastNameStartWithSmall" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenFirstName_shouldReturnFirsLatterNotCaptial" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenEmail_shouldReturnVaildMail" classname="UserRegistrationTest" time="0.001"/>
+  <testcase name="whenGivenPhoneNumber_shouldReturnValidPhoneNumber" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenPasswordCharacters_shouldReturnMinmum8CharacterIsValid" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenlastName_shouldReturnLastNameStartWithCaptial" classname="UserRegistrationTest" time="0.001"/>
+  <testcase name="whenGivenFirstName_shouldReturnFirsLatterCaptial" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenFirstName_shouldReturnFirstNameIsOnalyCharacter" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenPasswordCharacters_shouldReturnPasswordCharWithouUingNumericValue" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenPasswordCharacters_shouldReturnLessThan8CharacterIsInValid" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenPasswordCharacters_shouldReturnPasswordCharWithouUingSpecialCharacters" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenFirstName_shouldReturnIsMinumMum3Char" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenlastName_shouldReturnLastNameStartWithNumber" classname="UserRegistrationTest" time="0.001"/>
+  <testcase name="whenGivenPhoneNumber_shouldReturnValidPhoneNumberWithoutUsingISDno" classname="UserRegistrationTest" time="0.001"/>
+  <testcase name="whenGivenPasswordCharacters_shouldReturnPasswordCharWithouUsngUpperCaseIsInvalid" classname="UserRegistrationTest" time="0.001"/>
+  <testcase name="whenGivenEmail_shouldReturnInvaildMail" classname="UserRegistrationTest" time="0.0"/>
+  <testcase name="whenGivenPhoneNumber_shouldReturnValidPhoneNumberWithoutUsingPlusSymbol" classname="UserRegistrationTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

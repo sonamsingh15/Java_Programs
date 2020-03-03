@@ -1,0 +1,5 @@
+<root>
+    <item name='sun.jvm.hotspot.debugger.cdbg.LoadObjectComparator'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
